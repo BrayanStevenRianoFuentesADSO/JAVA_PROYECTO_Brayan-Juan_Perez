@@ -11,6 +11,10 @@ package com.mycompany.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int num1=10;
+        
+        for(int i = 5;i<=0;i++){
+            System.out.println(num1);
+        }
     }
 }
